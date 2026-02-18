@@ -4,4 +4,7 @@
   --breakpoint-tablet: 960px;
   --breakpoint-laptop: 1200px;
 }
+*{
+	font-family: sans-serif;
+}
 
